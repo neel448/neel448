@@ -4,6 +4,6 @@ I'm Neelansh Verma, an Interactive Front-End Developer, currently working at Wie
 
 I create neat, animated and intuitive websites.
 
-Checkout my portfolio <a href="https://neelansh.me">here </a>
+Checkout my portfolio <a target="_blank" href="https://neelansh.me">here </a>
 
 Have a good one! ✌️
