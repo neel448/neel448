@@ -1,4 +1,4 @@
-Hey there!
+# Hi there! 
 
 I'm Neelansh Verma, an Interactive Front-End Developer, currently working at Wieden+ Kennedy, India. 
 
